@@ -43,5 +43,6 @@ Server start: http://127.0.0.1:3000
 ## 開發工具
 
 - Visual Studio Code 
+- express ^4.21.1
 - node.js v18.15.0
 - nodemon @3.1.7 
